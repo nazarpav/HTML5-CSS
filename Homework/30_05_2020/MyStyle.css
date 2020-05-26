@@ -1,0 +1,15 @@
+body {
+    background-color: #1e272e;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    color: #ffd32a;
+    font-size: xx-large;
+    font-family: 'Comic Sans MS';
+}
+
+.containerMyStyle {
+    margin: 300px 0 0 130px;
+}

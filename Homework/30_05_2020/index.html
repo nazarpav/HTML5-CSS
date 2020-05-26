@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>30_05_2020</title>
+    <link href="node_modules/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="MyStyle.css" rel="stylesheet" />
+    <script>
+        window.onload = function() {
+            setInterval(() => {
+                var dialog = document.getElementById("MyDialog");
+                dialog.style.display = "block";
+            }, 3000);
+        }
+    </script>
+</head>
+
+<body>
+    <div class="dialog" id="MyDialog">
+        <header class="row justify-content-center">
+            <p>Home work 30_05_2020</p>
+        </header>
+        <main>
+            <div class="container">
+                <div class="row align-items-center containerMyStyle">
+                    <div class="col-sm">
+                        <button id="type1" type="button" class="btn btn-secondary btn-lg">Large button</button>
+                    </div>
+                    <div class="col-sm">
+                        <button id="type2" type="button" class="btn btn-secondary btn-lg">Large button</button>
+                    </div>
+                    <div class="col-sm">
+                        <button id="type3" type="button" class="btn btn-secondary btn-lg">Large button</button>
+                    </div>
+                </div>
+            </div>
+        </main>
+    </div>
+</body>
+
+</html>
