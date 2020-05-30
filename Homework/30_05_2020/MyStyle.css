@@ -18,3 +18,7 @@ header {
     display: none;
     transform: translateX(50%);
 }
+
+i {
+    color: #FFFFFF;
+}
