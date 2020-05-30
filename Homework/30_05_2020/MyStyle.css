@@ -13,3 +13,8 @@ header {
 .containerMyStyle {
     margin: 300px 0 0 130px;
 }
+
+.dialog {
+    display: none;
+    transform: translateX(50%);
+}
