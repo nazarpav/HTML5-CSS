@@ -2,6 +2,8 @@
 
 $html_BG: #a9a9a9;
 $h3_C: #2a2a2a;
+// $BG_C: #ff80ff;
+$BG_C: #000;
 html,
 body {
     margin: 0;
@@ -10,7 +12,7 @@ body {
 
 html {
     font-size: 10px;
-    background-color: $html_BG;
+    // background-color: $html_BG;
 }
 
 body {
@@ -25,7 +27,7 @@ h1,
 h2,
 h3 {
     font-family: 'Sonsie One', cursive;
-    color: h3_C;
+    // color: $h3_C;
 }
 
 p,
@@ -70,7 +72,7 @@ footer {
 
 nav {
     height: 50px;
-    background-color: #ff80ff;
+    background-color: $BG_C;
     display: flex;
     margin-bottom: 10px;
     ul {
@@ -139,7 +141,7 @@ article {
 aside {
     flex: 1;
     margin-left: 10px;
-    background-color: #ff80ff;
+    background-color: $BG_C;
     li {
         padding-bottom: 10px;
     }

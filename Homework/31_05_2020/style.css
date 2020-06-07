@@ -7,7 +7,6 @@ body {
 
 html {
   font-size: 10px;
-  background-color: #a9a9a9;
 }
 
 body {
@@ -20,7 +19,6 @@ h1,
 h2,
 h3 {
   font-family: 'Sonsie One', cursive;
-  color: h3_C;
 }
 
 p,
@@ -63,7 +61,7 @@ footer {
 
 nav {
   height: 50px;
-  background-color: #ff80ff;
+  background-color: #000;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -156,7 +154,7 @@ aside {
       -ms-flex: 1;
           flex: 1;
   margin-left: 10px;
-  background-color: #ff80ff;
+  background-color: #000;
 }
 
 aside li {

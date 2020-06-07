@@ -1,0 +1,63 @@
+.SecondHandText1 {
+    font-size: xx-large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    color: #ecf0f1;
+    margin: 0;
+    padding: 0;
+}
+
+.SecondHandText2 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #ecf0f1;
+}
+
+.SecondHandButtonsDivs {
+    margin-top: 10px;
+}
+
+.SecondHandButtonsDiv {
+    color: #ecf0f1;
+    font-weight: bold;
+    margin-right: 10px;
+    border: 3px #CCCCCC solid;
+}
+
+body {
+    background: url("Images/BackGround.png");
+    // background-color: #222f3e;
+}
+
+.mainDivs {
+    background-color: white;
+}
+
+.MainDiv2 {
+    margin-top: 30px;
+    color: red;
+    font-size: x-large;
+    font-weight: bold;
+    text-align: center;
+}
+
+.MainDiv1Text1 {
+    margin-top: 60px;
+    font-size: x-large;
+    font-weight: bold;
+    text-align: center;
+}
+
+.MainDiv1Text2 {
+    font-weight: normal;
+}
+
+.MainImage {
+    width: 223px;
+    height: 223px;
+}
+
+.FooterText {
+    color: white;
+}
