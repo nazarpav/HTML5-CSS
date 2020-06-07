@@ -1,0 +1,47 @@
+body {
+  background-color: #353b48;
+}
+
+.HomeButtonStyle {
+  color: #44bd32;
+}
+
+footer {
+  background-color: #44bd32;
+}
+
+main {
+  min-height: 56rem;
+}
+
+.ForegroundColorS {
+  color: #44bd32;
+}
+
+.FontStyleCSMS {
+  font-family: "Comic Sans MS";
+}
+
+.BackgroundF1 {
+  background-color: #7f8fa6;
+}
+
+.FontColor1 {
+  color: #dcdde1;
+}
+
+.LogoStyle {
+  width: 64px;
+  height: 64px;
+  margin-right: 10px;
+}
+
+.MarPad_0 {
+  margin: 0;
+  padding: 0;
+}
+
+.FBold {
+  font-weight: bold;
+}
+/*# sourceMappingURL=Mystyle.css.map */
