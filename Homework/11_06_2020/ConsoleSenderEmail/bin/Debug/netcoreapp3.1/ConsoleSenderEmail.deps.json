@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ConsoleSenderEmail/1.0.0": {
+        "dependencies": {
+          "EASendMail": "7.7.0.1"
+        },
+        "runtime": {
+          "ConsoleSenderEmail.dll": {}
+        }
+      },
+      "EASendMail/7.7.0.1": {
+        "runtime": {
+          "lib/netcoreapp2.1/EASendMail.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleSenderEmail/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EASendMail/7.7.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-IjFtZehh/qgC6W/M1bVj/tpwzBYSVzp1eLgpXs7jZsD7ZaKPhRSZ5Y+nRhCxC3Z2X07osJ9d9rpdSIBYbsbhpQ==",
+      "path": "easendmail/7.7.0.1",
+      "hashPath": "easendmail.7.7.0.1.nupkg.sha512"
+    }
+  }
+}

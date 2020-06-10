@@ -1,0 +1,37 @@
+D:\Study\2019-2020\51. Html CSS PU816\Lesson 9. Email template\ConsoleSenderEmail\ConsoleSenderEmail\bin\Debug\netcoreapp3.1\ConsoleSenderEmail.exe
+D:\Study\2019-2020\51. Html CSS PU816\Lesson 9. Email template\ConsoleSenderEmail\ConsoleSenderEmail\obj\Debug\netcoreapp3.1\ConsoleSenderEmail.csprojAssemblyReference.cache
+D:\Study\2019-2020\51. Html CSS PU816\Lesson 9. Email template\ConsoleSenderEmail\ConsoleSenderEmail\obj\Debug\netcoreapp3.1\ConsoleSenderEmail.AssemblyInfoInputs.cache
+D:\Study\2019-2020\51. Html CSS PU816\Lesson 9. Email template\ConsoleSenderEmail\ConsoleSenderEmail\obj\Debug\netcoreapp3.1\ConsoleSenderEmail.AssemblyInfo.cs
+D:\Study\2019-2020\51. Html CSS PU816\Lesson 9. Email template\ConsoleSenderEmail\ConsoleSenderEmail\bin\Debug\netcoreapp3.1\ConsoleSenderEmail.deps.json
+D:\Study\2019-2020\51. Html CSS PU816\Lesson 9. Email template\ConsoleSenderEmail\ConsoleSenderEmail\bin\Debug\netcoreapp3.1\ConsoleSenderEmail.runtimeconfig.json
+D:\Study\2019-2020\51. Html CSS PU816\Lesson 9. Email template\ConsoleSenderEmail\ConsoleSenderEmail\bin\Debug\netcoreapp3.1\ConsoleSenderEmail.runtimeconfig.dev.json
+D:\Study\2019-2020\51. Html CSS PU816\Lesson 9. Email template\ConsoleSenderEmail\ConsoleSenderEmail\bin\Debug\netcoreapp3.1\ConsoleSenderEmail.dll
+D:\Study\2019-2020\51. Html CSS PU816\Lesson 9. Email template\ConsoleSenderEmail\ConsoleSenderEmail\bin\Debug\netcoreapp3.1\ConsoleSenderEmail.pdb
+D:\Study\2019-2020\51. Html CSS PU816\Lesson 9. Email template\ConsoleSenderEmail\ConsoleSenderEmail\bin\Debug\netcoreapp3.1\EASendMail.dll
+D:\Study\2019-2020\51. Html CSS PU816\Lesson 9. Email template\ConsoleSenderEmail\ConsoleSenderEmail\obj\Debug\netcoreapp3.1\ConsoleSenderEmail.csproj.CoreCompileInputs.cache
+D:\Study\2019-2020\51. Html CSS PU816\Lesson 9. Email template\ConsoleSenderEmail\ConsoleSenderEmail\obj\Debug\netcoreapp3.1\ConsoleSenderEmail.csproj.CopyComplete
+D:\Study\2019-2020\51. Html CSS PU816\Lesson 9. Email template\ConsoleSenderEmail\ConsoleSenderEmail\obj\Debug\netcoreapp3.1\ConsoleSenderEmail.dll
+D:\Study\2019-2020\51. Html CSS PU816\Lesson 9. Email template\ConsoleSenderEmail\ConsoleSenderEmail\obj\Debug\netcoreapp3.1\ConsoleSenderEmail.pdb
+D:\Study\2019-2020\51. Html CSS PU816\Lesson 9. Email template\ConsoleSenderEmail\ConsoleSenderEmail\obj\Debug\netcoreapp3.1\ConsoleSenderEmail.genruntimeconfig.cache
+D:\Study\2019-2020\51. Html CSS PU816\Lesson 9. Email template\ConsoleSenderEmail\ConsoleSenderEmail\bin\Debug\netcoreapp3.1\email\email-template.html
+D:\Study\2019-2020\51. Html CSS PU816\Lesson 9. Email template\ConsoleSenderEmail\ConsoleSenderEmail\bin\Debug\netcoreapp3.1\email\1\index.html
+D:\Study\2019-2020\51. Html CSS PU816\Lesson 9. Email template\ConsoleSenderEmail\ConsoleSenderEmail\bin\Debug\netcoreapp3.1\email\6\index.html
+D:\Study\2019-2020\51. Html CSS PU816\Lesson 9. Email template\ConsoleSenderEmail\ConsoleSenderEmail\bin\Debug\netcoreapp3.1\email\21\index.html
+C:\Projects\WEB\Homework\11_06_2020\ConsoleSenderEmail\bin\Debug\netcoreapp3.1\ConsoleSenderEmail.exe
+C:\Projects\WEB\Homework\11_06_2020\ConsoleSenderEmail\bin\Debug\netcoreapp3.1\ConsoleSenderEmail.deps.json
+C:\Projects\WEB\Homework\11_06_2020\ConsoleSenderEmail\bin\Debug\netcoreapp3.1\ConsoleSenderEmail.runtimeconfig.json
+C:\Projects\WEB\Homework\11_06_2020\ConsoleSenderEmail\bin\Debug\netcoreapp3.1\ConsoleSenderEmail.runtimeconfig.dev.json
+C:\Projects\WEB\Homework\11_06_2020\ConsoleSenderEmail\bin\Debug\netcoreapp3.1\ConsoleSenderEmail.dll
+C:\Projects\WEB\Homework\11_06_2020\ConsoleSenderEmail\bin\Debug\netcoreapp3.1\ConsoleSenderEmail.pdb
+C:\Projects\WEB\Homework\11_06_2020\ConsoleSenderEmail\bin\Debug\netcoreapp3.1\EASendMail.dll
+C:\Projects\WEB\Homework\11_06_2020\ConsoleSenderEmail\obj\Debug\netcoreapp3.1\ConsoleSenderEmail.csprojAssemblyReference.cache
+C:\Projects\WEB\Homework\11_06_2020\ConsoleSenderEmail\obj\Debug\netcoreapp3.1\ConsoleSenderEmail.csproj.CoreCompileInputs.cache
+C:\Projects\WEB\Homework\11_06_2020\ConsoleSenderEmail\obj\Debug\netcoreapp3.1\ConsoleSenderEmail.AssemblyInfoInputs.cache
+C:\Projects\WEB\Homework\11_06_2020\ConsoleSenderEmail\obj\Debug\netcoreapp3.1\ConsoleSenderEmail.AssemblyInfo.cs
+C:\Projects\WEB\Homework\11_06_2020\ConsoleSenderEmail\obj\Debug\netcoreapp3.1\ConsoleSenderEmail.csproj.CopyComplete
+C:\Projects\WEB\Homework\11_06_2020\ConsoleSenderEmail\obj\Debug\netcoreapp3.1\ConsoleSenderEmail.dll
+C:\Projects\WEB\Homework\11_06_2020\ConsoleSenderEmail\obj\Debug\netcoreapp3.1\ConsoleSenderEmail.pdb
+C:\Projects\WEB\Homework\11_06_2020\ConsoleSenderEmail\obj\Debug\netcoreapp3.1\ConsoleSenderEmail.genruntimeconfig.cache
+C:\Projects\WEB\Homework\11_06_2020\ConsoleSenderEmail\bin\Debug\netcoreapp3.1\email\index.html
+C:\Projects\WEB\Homework\11_06_2020\ConsoleSenderEmail\bin\Debug\netcoreapp3.1\email\Images\Logo.png
+C:\Projects\WEB\Homework\11_06_2020\ConsoleSenderEmail\bin\Debug\netcoreapp3.1\email\Images\WinViewer.png

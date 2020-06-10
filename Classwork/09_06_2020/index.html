@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Шрот запчастин</title>
+    <link rel="stylesheet" href="/node_modules/bootstrap/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/node_modules/font-awesome/css/font-awesome.min.css">
+
+    <script src="/js/main.js"></script>
+</head>
+
+<body>
+
+    <nav class="navbar navbar-expand-md navbar-dark bg-dark">
+        <a href="/" class="navbar-brand">Автошрот</a>
+        <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarCollapse">
+            <div class="navbar-nav">
+                <a href="/" class="nav-item nav-link active">Головна</a>
+                <a href="#" class="nav-item nav-link">Товари</a>
+                <a href="#" class="nav-item nav-link">Профіль користвача</a>
+                <a href="#" class="nav-item nav-link disabled" tabindex="-1">Reports</a>
+            </div>
+            <div class="navbar-nav ml-auto">
+                <a href="#" class="nav-item nav-link">Реєстрація</a>
+                <a href="#" class="nav-item nav-link">
+                    <i class="fa fa-sign-in" aria-hidden="true"></i> Вхід
+                </a>
+            </div>
+        </div>
+    </nav>
+    <div class="container">
+        <h1>Наші запчастини</h1>
+
+        <form>
+            <div class="form-row align-items-center">
+                <div class="col-md-3">
+                    <label class="sr-only" for="image">
+                        Фото
+                    </label>
+                    <input type="text" 
+                        class="form-control mb-2" 
+                        id="image" 
+                        placeholder="Фото">
+                </div>
+
+                <div class="col-md-3">
+                    <label class="sr-only" for="name">
+                        Назва
+                    </label>
+                    <input type="text" 
+                        class="form-control mb-2" 
+                        id="name" 
+                        placeholder="Назва">
+                </div>
+
+                <div class="col-md-3">
+                    <label class="sr-only" for="price">
+                        Ціна
+                    </label>
+                    <input type="text" 
+                        class="form-control mb-2" 
+                        id="price" 
+                        placeholder="Ціна">
+                </div>
+
+                
+                <div class="offset-md-1 col-md-2">
+                    <button type="submit" id="btnAdd" class="btn btn-primary mb-2">Додати</button>
+                </div>
+            </div>
+        </form>
+
+        <table class="table">
+            <thead>
+                <tr>
+                    <th scope="col">Фото</th>
+                    <th scope="col">Назва</th>
+                    <th scope="col">Ціна</th>
+                </tr>
+            </thead>
+            <tbody id="productContent">
+                <tr>
+                    <td>
+                        <img width="150"
+                            src="https://images.ua.prom.st/1744363130_w640_h640_pnevmo-stojka-amortizator.jpg">
+                    </td>
+                    <td>Пневмо Стойка Амортизатор Балон Пневмостойка Volkswagen Touareg</td>
+                    <td>8 100 грн.</td>
+                </tr>
+                
+            </tbody>
+        </table>
+
+    </div>
+
+
+    <script src="/node_modules/jquery/dist/jquery.min.js"></script>
+    <script src="/node_modules/popper.js/dist/popper.min.js"></script>
+    <script src="/node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
+</body>
+
+</html>

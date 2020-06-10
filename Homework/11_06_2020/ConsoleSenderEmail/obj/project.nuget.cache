@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ly50FzGfafiKSarId3SbWP5GFZ99NDImvgdRODGbUZuNsnmuOakV29um2oxEypAEc8mUQtarT+tmHQl4/mOCAg==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\WEB\\Homework\\11_06_2020\\ConsoleSenderEmail\\ConsoleSenderEmail.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ROOT\\.nuget\\packages\\easendmail\\7.7.0.1\\easendmail.7.7.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
