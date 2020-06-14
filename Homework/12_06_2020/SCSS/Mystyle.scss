@@ -1,0 +1,55 @@
+    $BackgroundColor: #353b48;
+    $BackgroundColor1: #7f8fa6;
+    $ForegroundColor: #44bd32;
+    $FontColor1Color: #dcdde1;
+    @mixin min_H {
+        min-height: 56rem;
+    }
+    
+    body {
+        background-color: $BackgroundColor;
+    }
+    
+    .HomeButtonStyle {
+        color: $ForegroundColor;
+    }
+    
+    footer {
+        background-color: $ForegroundColor;
+    }
+    
+    main {
+        @include min_H();
+    }
+    
+    .ForegroundColorS {
+        color: $ForegroundColor;
+    }
+    
+    .FontStyleCSMS {
+        font-family: "Comic Sans MS";
+    }
+    
+    .BackgroundF1 {
+        background-color: $BackgroundColor1;
+    }
+    
+    .FontColor1 {
+        color: $FontColor1Color;
+    }
+    
+    .LogoStyle {
+        // width: 100%;
+        width: 64px;
+        height: 64px;
+        margin-right: 10px;
+    }
+    
+    .MarPad_0 {
+        margin: 0;
+        padding: 0;
+    }
+    
+    .FBold {
+        font-weight: bold;
+    }
