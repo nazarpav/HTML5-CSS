@@ -1,0 +1,62 @@
+.smallImage {
+    width: 20%;
+    margin-top: 15px;
+  }
+  .largeImage {
+    width: 50%;
+  }
+  .smallImage:hover
+  {
+    border-bottom: solid;
+    border-color: green;
+    cursor: pointer;
+  
+  }
+  
+  ul {
+    list-style: none;
+  }
+
+  .upInfoText
+  {
+    position: absolute;
+    left: 0;
+    top: 50px;
+    background-color: #d34546;
+    padding: 0px 6px;
+    font-weight: 600;
+   
+
+  }
+  .upInfoText.Second
+  {
+    color: white;
+    top: 100px;
+background-color: chartreuse;
+  }
+  .boldText
+  {
+    font-weight: bold;
+    font-size: large;
+  }
+  .circleImage
+  {
+    border-radius: 30%;
+    width: 30%;
+  }
+  .priceText{
+    color: red;
+    font-size: xx-large;
+  }
+  .oldPriceText
+  {
+    font-size: large;
+    color: gray;
+    text-decoration: line-through;
+  }
+  .priceInfoCol
+  {
+    position: absolute;
+  }
+  
+  
